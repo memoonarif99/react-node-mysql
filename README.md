@@ -11,4 +11,4 @@ npm install
 npm start
 
 Contact
-Your Name - memoonarif@gmail.com
+MEMOON ARIF - memoonarif@gmail.com
