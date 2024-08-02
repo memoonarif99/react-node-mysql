@@ -11,4 +11,6 @@ npm install
 npm start
 
 # Contact
-MEMOON ARIF - memoonarif@gmail.com
+MEMOON ARIF
+memoonarif@gmail.com
+https://www.linkedin.com/in/memoon-arif-13aa70174/
